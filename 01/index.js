@@ -1,0 +1,1 @@
+console.log("Now i am using external js file")
