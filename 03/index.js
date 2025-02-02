@@ -9,7 +9,7 @@ console.log("Muhammad Shafiullah")
 
 // Number
 
-let num1 = 33
+let num1 = 33.33
 let num2 = 22
 // console.log(typeof(num1 + num2))
 
@@ -38,3 +38,9 @@ const Studend={
     rollNumber: 44,
 }
 // console.log(Studend.rollNumber)
+
+//Operators
+
+let value1 = 33.22
+let value2 = 66
+console.log(value1 / value2)
