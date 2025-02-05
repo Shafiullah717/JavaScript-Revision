@@ -10,3 +10,4 @@ Students.reverse()
 console.log(Students)
 const data =["Shafiullah","21","Single","Male"]
 console.log(data)
+
