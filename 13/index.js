@@ -3,7 +3,7 @@ console.log("EventListsners In JS")
 //     console.log("Button Clicked")
   
 // }
-const Button = document.getElementById("ButtonClicked")
+// const Button = document.getElementById("ButtonClicked")
 // ButtonClicked.onclick = function (){
 //     console.log("button Clicked")
 // }
@@ -45,3 +45,12 @@ const Button = document.getElementById("ButtonClicked")
 //         body.item(i).remove()
 //     })
 // }
+// const button = document.getElementById("Button")
+// const container = document.getElementById("Container")
+// let count = 1;
+// button.addEventListener("click", function(){
+//     const Car = document.createElement("li")
+//     Car.innerHTML = count
+//     container.appendChild(Car)
+//     count = count + 1;
+// })
